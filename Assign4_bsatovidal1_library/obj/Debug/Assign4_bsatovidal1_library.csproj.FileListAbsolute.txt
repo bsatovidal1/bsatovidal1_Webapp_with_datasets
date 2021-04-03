@@ -1,0 +1,9 @@
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\bin\Debug\Emmas.mdf
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\bin\Debug\Emmas_log.ldf
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\bin\Debug\Assign4_bsatovidal1_library.dll.config
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\bin\Debug\Assign4_bsatovidal1_library.dll
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\bin\Debug\Assign4_bsatovidal1_library.pdb
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\obj\Debug\Assign4_bsatovidal1_library.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\obj\Debug\Assign4_bsatovidal1_library.dll
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\obj\Debug\Assign4_bsatovidal1_library.pdb
+C:\Users\Bruno\Desktop\bsatovidal1_Assignment4\Assign4_bsatovidal1_library\obj\Debug\Assign4_bsatovidal1_library.csprojAssemblyReference.cache
